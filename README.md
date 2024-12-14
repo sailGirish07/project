@@ -1,3 +1,3 @@
-# First project
+# New Project
 
-Converting project from local repo to remote repo .
+Converting local repo to remote repo .
